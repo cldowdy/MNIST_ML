@@ -1,8 +1,10 @@
-# README #
+# Digit Recognizer #
+ 
+### Description of Task ###
+ 
+Apply four different pipeline's using methods learned in ISLR to the MNIST handwriting data (and any features obtained from it). Classify the Kaggle Test data and submit your results to see which pipeline preformed the best. 
 
-### Assignment 6 ###
-
-Apply four different pipeline's using methods that we learned in ISLR to the MNIST handwriting data (and any features obtained from it). Classify the Kaggle Test data and submit your results to see which pipeline preformed the best. Explain why you think some methods preformed better, as well as explanation of your pipeline's.
+[Competition Here](https://www.kaggle.com/c/digit-recognizer/submissions)
 
 ### Contents  ###
 
