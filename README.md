@@ -4,7 +4,7 @@
  
 Apply four different pipeline's using methods learned in ISLR to the MNIST handwriting data (and any features obtained from it). Classify the Kaggle Test data and submit your results to see which pipeline preformed the best. 
 
-[Competition Here](https://www.kaggle.com/c/digit-recognizer/submissions)
+[Competition Here](https://www.kaggle.com/c/digit-recognizer)
 
 ### Contents  ###
 
